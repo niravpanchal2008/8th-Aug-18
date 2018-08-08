@@ -1,0 +1,45 @@
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (74ff31baf21c05818aef7d767b9d60f3)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest26659@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (74ff31baf21c05818aef7d767b9d60f3)] -> id: email_create]
+------Ending TC_001 Test------
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (d8fd1644b5c6f86f0a7eb104921a4bd0)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest57631@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (d8fd1644b5c6f86f0a7eb104921a4bd0)] -> id: email_create]
+------Ending TC_001 Test------
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (67975c09af7c812278ee394e99b1f839)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest59913@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (67975c09af7c812278ee394e99b1f839)] -> id: email_create]
+------Ending TC_001 Test------
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (4e1434aef23e2cacb2aab6ead972e0c6)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest23849@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (4e1434aef23e2cacb2aab6ead972e0c6)] -> id: email_create]
+------Ending TC_001 Test------
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (c2cc574fa20dcc162a12176f3f91124f)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest72650@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (c2cc574fa20dcc162a12176f3f91124f)] -> id: email_create]
+------Ending TC_001 Test------
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (7c617346299bd19156f0154eed9de5d7)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest98180@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (7c617346299bd19156f0154eed9de5d7)] -> id: email_create]
+------Ending TC_001 Test------
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (b25a51a09b7b972a6021ecf3a43b3cfb)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest84405@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (b25a51a09b7b972a6021ecf3a43b3cfb)] -> id: email_create]
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (631a6868dde25554d1f154916ec13a16)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest48393@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (631a6868dde25554d1f154916ec13a16)] -> id: email_create]
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (fbda989eda46b8a485a6274cf3116912)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest61918@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (fbda989eda46b8a485a6274cf3116912)] -> id: email_create]
+------Ending TC_001 Test------
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (0e508a45793a3d3a836d2ec796b4079b)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest94666@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (0e508a45793a3d3a836d2ec796b4079b)] -> id: email_create]
+Retrying TestcustomerRegistrationWith StatusFAILUREFor the1Times
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (cb1934b5553da883e968bf0d9d8253ec)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest10025@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (cb1934b5553da883e968bf0d9d8253ec)] -> id: email_create]
+Retrying TestcustomerRegistrationWith StatusFAILUREFor the2Times
+------Starting TC_001 Test------
+CLICKED ON SIGN-IN BY USING OBJECT: [[ChromeDriver: chrome on XP (23d6a4fa3c2ac411f0eeddc4a125efe4)] -> link text: Sign in]
+ENTERED E-MAIL ADDRESS:qatest76884@gmail.com BY USING OBJECT[[ChromeDriver: chrome on XP (23d6a4fa3c2ac411f0eeddc4a125efe4)] -> id: email_create]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" ignored="0" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[TEST HAS BEEN SKIPPED : customerRegistration]]>
+    </line>
+  </reporter-output>
+  <suite name="DemoProjectSuite" duration-ms="61652" started-at="2018-08-08T03:36:34Z" finished-at="2018-08-08T03:37:36Z">
+    <groups>
+    </groups>
+    <test name="DemoProjectTest" duration-ms="61652" started-at="2018-08-08T03:36:34Z" finished-at="2018-08-08T03:37:36Z">
+      <class name="DemoPack.DemoProject.TC_001">
+        <test-method status="PASS" signature="startProcess()[pri:0, instance:DemoPack.DemoProject.TC_001@1786f9d5]" name="startProcess" is-config="true" duration-ms="61475" started-at="2018-08-08T09:06:34Z" finished-at="2018-08-08T09:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="FAIL" signature="beforeMethod(net.bytebuddy.jar.asm.commons.Method)[pri:0, instance:DemoPack.DemoProject.TC_001@1786f9d5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-08-08T09:07:35Z" finished-at="2018-08-08T09:07:35Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[Can inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated beforeMethod.For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: Can inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated beforeMethod.For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injectionat org.testng.internal.Parameters.checkParameterTypes(Parameters.java:407)at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:356)at org.testng.internal.Parameters.createParameters(Parameters.java:635)at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:190)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:209)at org.testng.internal.Invoker.invokeMethod(Invoker.java:516)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="customerRegistration()[pri:0, instance:DemoPack.DemoProject.TC_001@1786f9d5]" name="customerRegistration" duration-ms="0" started-at="2018-08-08T09:07:35Z" finished-at="2018-08-08T09:07:35Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[Can inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated beforeMethod.For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: Can inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated beforeMethod.For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injectionat org.testng.internal.Parameters.checkParameterTypes(Parameters.java:407)at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:356)at org.testng.internal.Parameters.createParameters(Parameters.java:635)at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:190)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:209)at org.testng.internal.Invoker.invokeMethod(Invoker.java:516)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+            <line>
+              <![CDATA[TEST HAS BEEN SKIPPED : customerRegistration]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerRegistration -->
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:DemoPack.DemoProject.TC_001@1786f9d5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-08-08T09:07:35Z" finished-at="2018-08-08T09:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="endProcess()[pri:0, instance:DemoPack.DemoProject.TC_001@1786f9d5]" name="endProcess" is-config="true" duration-ms="0" started-at="2018-08-08T09:07:36Z" finished-at="2018-08-08T09:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- DemoPack.DemoProject.TC_001 -->
+    </test> <!-- DemoProjectTest -->
+  </suite> <!-- DemoProjectSuite -->
+</testng-results>

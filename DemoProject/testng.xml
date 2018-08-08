@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DemoProjectSuite">
+<listeners>
+<listener class-name="CustomerListner.ListnerClass"></listener>
+<listener class-name="CustomerListner.RetryListner"></listener>
+</listeners>
+  <test thread-count="5" name="DemoProjectTest">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="DemoPack.DemoProject.TC_001"/>
+    </classes>
+  </test> <!-- DemoProjectTest -->
+</suite> <!-- DemoProjectSuite -->
+
+
+
